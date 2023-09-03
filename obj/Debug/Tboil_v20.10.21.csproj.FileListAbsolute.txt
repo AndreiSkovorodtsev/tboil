@@ -1,0 +1,176 @@
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.config
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.pdb
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Main.resources
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Properties.Resources.resources
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.pdb
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CopyComplete
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.PrintPassMode.resources
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Requests.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.config
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.pdb
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csprojAssemblyReference.cache
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Main.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.PrintPassMode.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Properties.Resources.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Requests.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.GenerateResource.cache
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CopyComplete
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.pdb
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Registration.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Registration.resources
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrScanner.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrScanner.resources
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.TboilEntrance.resources
+C:\Users\admin\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.TboilEntrance.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.config
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.pdb
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csprojAssemblyReference.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Main.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.PrintPassMode.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Properties.Resources.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrScanner.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Registration.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Requests.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.TboilEntrance.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.GenerateResource.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CopyComplete
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.pdb
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.dll
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.dll
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.dll
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.dll
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.xml
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.xml
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.xml
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.xml
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.application
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.application
+C:\Users\beshe\source\repos\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrCamera.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.config
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.application
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.pdb
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csprojAssemblyReference.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Main.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.PrintPassMode.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Properties.Resources.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrCamera.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrScanner.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Registration.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Requests.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.TboilEntrance.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.GenerateResource.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.application
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CopyComplete
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 почти рабочая не обновлялись заявки\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.pdb
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Main.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Properties.Resources.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrCamera.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrScanner.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Registration.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Requests.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.TboilEntrance.resources
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.pdb
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.config
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.application
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.pdb
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.dll
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.dll
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.dll
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.dll
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.xml
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.xml
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.xml
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.xml
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.application
+C:\Users\admin\Desktop\Tboil_v20.10.21 полностью рабочая версия\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CopyComplete
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.config
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.application
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Tboil_v20.10.21.pdb
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.dll
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\bin\Debug\zxing.presentation.xml
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csprojAssemblyReference.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Main.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Properties.Resources.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrCamera.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.QrScanner.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Registration.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.Requests.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20._10._21.TboilEntrance.resources
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.GenerateResource.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe.manifest
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.application
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.csproj.CopyComplete
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.exe
+C:\Users\beshe\OneDrive\Рабочий стол\Tboil_v20.10.21 (28.11)\Tboil_v20.10.21\Tboil_v20.10.21\obj\Debug\Tboil_v20.10.21.pdb
